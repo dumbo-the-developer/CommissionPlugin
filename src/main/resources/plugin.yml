@@ -1,0 +1,7 @@
+name: CommissionPlugin
+version: '${project.version}'
+main: me.adarsh.commissionplugin.CommissionPlugin
+api-version: '1.20'
+author: DUMBO
+commands:
+  join:
